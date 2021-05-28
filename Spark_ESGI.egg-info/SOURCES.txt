@@ -1,0 +1,6 @@
+setup.py
+Spark_ESGI.egg-info/PKG-INFO
+Spark_ESGI.egg-info/SOURCES.txt
+Spark_ESGI.egg-info/dependency_links.txt
+Spark_ESGI.egg-info/requires.txt
+Spark_ESGI.egg-info/top_level.txt
